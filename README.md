@@ -1,2 +1,2 @@
 # code-for-me
-it this was created for  i show my code in public. 
+it this was created for  i shown my code in public. 
